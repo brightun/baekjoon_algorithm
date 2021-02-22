@@ -116,3 +116,12 @@ github에 commit을 하면 기존에 있던 것에 contribution만 올라간다!
 이 문제는 문제 난이도는 크게 높지 않았지만, 이해하는 게 제일 오래 걸렸다.
 
 ## (1406번) 에디터
+
+
+## 사지방 뚫어버리기~
+
+1. Windows PowerShell ISE 실행
+2. wget -Outfile python.exe https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe
+3. .\python.exe로 파이썬 설치
+4. cd C:\Users\W42705\AppData\Local\Programs\Python\Python39\Scripts
+5. .\pip.exe install opencv-python
